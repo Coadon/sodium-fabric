@@ -1,9 +1,9 @@
 ![Project icon](https://git-assets.jellysquid.me/hotlink-ok/sodium/icon-rounded-128px.png)
 
 # Sodium Ports (for Fabric)
-![GitHub license](https://img.shields.io/github/license/jan-leila/sodium-fabric.svg)
-![GitHub issues](https://img.shields.io/github/issues/jan-leila/sodium-fabric.svg)
-![GitHub tag](https://img.shields.io/github/tag/jan-leila/sodium-fabric.svg)
+![GitHub license](https://img.shields.io/github/license/coadon/sodium-fabric.svg)
+![GitHub issues](https://img.shields.io/github/issues/coadon/sodium-fabric.svg)
+![GitHub tag](https://img.shields.io/github/tag/coadon/sodium-fabric.svg)
 
 Sodium is a free and open-source optimization mod for the Minecraft client that improves frame rates, reduces
 micro-stutter, and fixes graphical issues in Minecraft. 

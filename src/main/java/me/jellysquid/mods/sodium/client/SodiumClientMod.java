@@ -5,6 +5,8 @@ import me.jellysquid.mods.sodium.client.util.UnsafeUtil;
 import net.fabricmc.api.ClientModInitializer;
 import net.fabricmc.loader.api.FabricLoader;
 import net.fabricmc.loader.api.ModContainer;
+import net.minecraft.client.gui.screen.options.ControlsListWidget;
+import net.minecraft.client.options.KeyBinding;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -13,6 +15,8 @@ public class SodiumClientMod implements ClientModInitializer {
     private static Logger LOGGER;
 
     private static String MOD_VERSION;
+
+    private static KeyBinding openVideoOptionsKey;
 
     @Override
     public void onInitializeClient() {

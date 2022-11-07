@@ -97,8 +97,7 @@ public class MixinVideoOptionsScreen extends GameOptionsScreen {
         if (keyCode == GLFW.GLFW_KEY_ESCAPE)
             VanillaOptions.applySettingsChanges();
 
-
-        if(!VanillaOptions.inRun && keyCode == GLFW.GLFW_KEY_P && (modifiers & GLFW.GLFW_MOD_SHIFT) != 0) {
+        if(keyCode == GLFW.GLFW_KEY_P && (modifiers & GLFW.GLFW_MOD_SHIFT) != 0) {
             MinecraftClient.getInstance().openScreen(new SodiumOptionsGUI(this.parent));
             return true;
         }
