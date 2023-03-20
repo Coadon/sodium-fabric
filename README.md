@@ -1,5 +1,11 @@
 ![Project icon](https://git-assets.jellysquid.me/hotlink-ok/sodium/icon-rounded-128px.png)
 
+> Note:
+> This distribution of Sodium Fabric is a fork of the original regulated speedrun mod.
+> This mod made it possible to access sodium setting within a run for practice reasons.
+> This mod is no longer in use since it was no longer up to date.
+> Original repo can be found [here](https://github.com/jan-leila/sodium-fabric)
+
 # Sodium Ports (for Fabric)
 ![GitHub license](https://img.shields.io/github/license/coadon/sodium-fabric.svg)
 ![GitHub issues](https://img.shields.io/github/issues/coadon/sodium-fabric.svg)
